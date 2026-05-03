@@ -1,4 +1,8 @@
-### Olá! Eu sou o Diego Augusto 🤙
+### Sou desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento web e arquitetura de sistemas escaláveis. Tenho experiência no desenvolvimento de aplicações utilizando tecnologias modernas de front-end e back-### end, sempre buscando escrever código limpo, eficiente e de fácil manutenção.
+
+### Tenho grande interesse em arquiteturas serverless, sistemas distribuídos e boas práticas de engenharia de software, como SOLID e Clean Architecture. Estou constantemente evoluindo minhas habilidades, explorando novas ### ferramentas e aprofundando conhecimentos em cloud computing e design de sistemas.
+
+### Gosto de resolver problemas complexos e transformar ideias em soluções práticas, com foco em performance, escalabilidade e experiência do usuário. 🤙
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegoaugustodepaula@gmail.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-augusto-b02381202/)
